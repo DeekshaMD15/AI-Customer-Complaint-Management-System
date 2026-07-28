@@ -1,0 +1,15 @@
+Customer Name: Sun Pharma
+
+Complaint Source: Email
+
+Product Name: Amoxicillin Capsules
+
+Batch Number: S56789
+
+Manufacturing Date: 10-Feb-2026
+
+Complaint Description:
+Customer reported leaking capsules inside the package.
+Approximately 15 capsules were damaged.
+
+Severity: High

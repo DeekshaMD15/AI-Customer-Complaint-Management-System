@@ -1,0 +1,15 @@
+Customer Name: ABC Pharma
+
+Complaint Source: Email
+
+Product Name: Paracetamol 500mg Tablets
+
+Batch Number: B12345
+
+Manufacturing Date: 15-Jan-2026
+
+Complaint:
+Customer reported broken tablets inside the bottle.
+Approximately 20 tablets were damaged.
+
+Severity: Medium

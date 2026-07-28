@@ -1,0 +1,15 @@
+Customer Name: Cipla
+
+Complaint Source: Phone
+
+Product Name: Vitamin C Tablets
+
+Batch Number: C98765
+
+Manufacturing Date: 05-Mar-2026
+
+Complaint Description:
+Customer reported discoloration of tablets.
+Bottle seal was intact.
+
+Severity: Low
